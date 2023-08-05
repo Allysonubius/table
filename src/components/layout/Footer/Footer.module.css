@@ -1,0 +1,12 @@
+.footerText{
+    text-decoration: none;
+    color: chocolate;
+}
+
+.footerText:hover{
+    color: coral;
+}
+
+.textColor{
+    color: aliceblue;
+}
